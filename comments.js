@@ -73,4 +73,3 @@ var currentRoom = {};
 //启动socket.io服务器
 exports.listen = function(server) {
     //启动socket.io服务器，允许它搭载在已有的HTTP服务器上
-
